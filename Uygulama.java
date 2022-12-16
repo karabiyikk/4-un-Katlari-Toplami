@@ -1,7 +1,3 @@
-package Donguler;
-//Java döngüler ile tek bir sayı girilene kadar kullanıcıdan girişleri kabul eden
-// girilen değerlerden çift ve 4'ün katları olan sayıları toplayıp ekrana basan programı yazıyoruz.
-
 import java.util.Scanner;
 
 public class Uygulama {
